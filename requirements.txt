@@ -1,5 +1,4 @@
 numpy
 pandas
 streamlit
-folium==0.12.1
-geopy
+scikit-learn
