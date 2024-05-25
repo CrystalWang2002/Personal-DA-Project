@@ -2,7 +2,7 @@ import streamlit as st
 import function as func
 
 # set title
-st.title("Amazon Sales Analysis and Rrecomendation System")
+st.title("Amazon Sales Analysis and Recomendation System")
 
 # part 1
 with st.expander("1. Preprocessed Dataset Overview"):
